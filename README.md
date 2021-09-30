@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 👯 I’m looking to collaborate on Tech projects with Python
+- 💬 Ask me about Mikrotik, VPN
+- 📫 How to reach me: [telegram](https://t.me/bazul)
 ![reflash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bazulenkov&show_icons=true&count_private=true&theme=dracula)
