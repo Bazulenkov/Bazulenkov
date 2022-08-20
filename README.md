@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Github Stats
 <div>
-<img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazulenkov&show_icons=true&layout=compact&theme=dark" alt="bazulenkov">
-<img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=bazulenkov&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="bazulenkov">
-<img height="150em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bazulenkov&&theme=dark" alt="bazulenkov">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazulenkov&show_icons=true&layout=compact&theme=dark" alt="bazulenkov">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=bazulenkov&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="bazulenkov">
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=bazulenkov&&theme=dark" alt="bazulenkov">
 </div>
