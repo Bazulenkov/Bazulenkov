@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👯 I’m looking to collaborate on Tech projects with Python
-- 💬 Ask me about Mikrotik, VPN
+- 💬 Ask me about Mikrotik, Networks technology.
 - More specific info about me in my [LinkedIn](https://www.linkedin.com/in/bazulenkov/)
 - 📫 How to reach me: [telegram](https://t.me/bazul)
 
